@@ -6,3 +6,8 @@ These `*.cape` cursors are to be used in the [Mousecape](https://github.com/alex
 ## Note
 
 The Mousecape app doesn't work properly on macOS Sonoma+.
+
+
+## Any suggestions?
+
+I recommend using the KDE Breeze cursor! It looks modern, stylish, and minimalistic.
